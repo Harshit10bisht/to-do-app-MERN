@@ -1,0 +1,5 @@
+/back_end/node_modules
+/back_end/package-lock.json
+/back_end/mongo_pass.txt
+/front_end/node_modules
+/front_end/package-lock.json
