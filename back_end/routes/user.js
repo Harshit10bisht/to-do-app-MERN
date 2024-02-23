@@ -62,6 +62,7 @@ router.post('/login', async (req, res) => {
 });
 
 router.get('/auth', auth, (req, res) => {
+    // to check if that token is valid or not
     res.send(req.user);
 })
 
